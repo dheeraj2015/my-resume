@@ -59,13 +59,13 @@ _**May 2019 – Present**_
 ### STAFF DATA SCIENTIST at GE Digital/Power  
 _**Jan 2016 – Apr 2019**_
 
-<u>**Boiler tube leak solution:** </u>
+**<u>Boiler tube leak solution:</u>** 
 - **Led an engineering team**, delivered predictive analytics-based product.  
 - Used **physics-based model** and **machine learning**.  
 - Integrated analytics into UI.  
  <hr style="border: 0; height: 1px; background: #ccc;" />
 
-<u>**CNN for compressor blade defects:** </u> 
+**<u>CNN for compressor blade defects:</u>** 
 - Explored business value.  
 - **Trained CNN model** for mechanical defect detection.  
 - Demonstrated value to stakeholders.  
@@ -74,7 +74,7 @@ _**Jan 2016 – Apr 2019**_
 
  <hr style="border: 0; height: 1px; background: #ccc;" />
 
-<u>**Multivariate Time-Series Anomaly Detection**</u>
+**<u>Multivariate Time-Series Anomaly Detection</u>**
 - Developed **semi-supervised anomaly detection**.  
 - Used **PCA**, **Autoencoder**, and **similarity-based methods**.  
 - Implemented **APM-Smart Signal**.
