@@ -45,9 +45,8 @@ _**May 2019 – Present**_
 **Key skills:** Leadership, AI model training, Architecture, Budgeting, Communication, Lab testing, Cyber security
 
 
-<hr style="border: 0; height: 2px; background: #ccc;" />
+ <hr style="border: 0; height: 1px; background: #ccc;" />
 
-<hr style="border-top: 1px dashed #ccc;" />
 
 #### <u>GEN AI POCs</u>  
 - Implemented a **RAG** using inspection databases.  
@@ -60,21 +59,22 @@ _**May 2019 – Present**_
 ### STAFF DATA SCIENTIST at GE Digital/Power  
 _**Jan 2016 – Apr 2019**_
 
-**Boiler tube leak solution:**  
+<u>**Boiler tube leak solution:** </u>
 - **Led an engineering team**, delivered predictive analytics-based product.  
 - Used **physics-based model** and **machine learning**.  
 - Integrated analytics into UI.  
----
-**CNN for compressor blade defects:**  
+ <hr style="border: 0; height: 1px; background: #ccc;" />
+
+<u>**CNN for compressor blade defects:** </u> 
 - Explored business value.  
 - **Trained CNN model** for mechanical defect detection.  
 - Demonstrated value to stakeholders.  
 
 **Key technologies:** CNN, DB Scan, Image segmentation, Mask R-CNN
 
----
+ <hr style="border: 0; height: 1px; background: #ccc;" />
 
-### Multivariate Time-Series Anomaly Detection  
+<u>**Multivariate Time-Series Anomaly Detection**</u>
 - Developed **semi-supervised anomaly detection**.  
 - Used **PCA**, **Autoencoder**, and **similarity-based methods**.  
 - Implemented **APM-Smart Signal**.
