@@ -9,8 +9,9 @@
 ---
 
 ## PROFESSIONAL SUMMARY
-
+<div align="justify">
 Accomplished Senior Staff Data Scientist with a proven track record at GE Digital, specializing in software product development, machine/deep learning, and project management. Spearheaded the entire lifecycle of AI-driven software development and launching of an AI-driven product, showcasing expertise in technical leadership. Apart from leading a software and data science team, I have led multiple proof of concept and pilot implementation of new products demonstrating a blend of technical acumen and visionary leadership.
+</div>
 
 ---
 
@@ -33,7 +34,7 @@ Accomplished Senior Staff Data Scientist with a proven track record at GE Digita
 _**May 2019 – Present**_
 
 #### <u> Computer Vision product development and launched in market:</u>
-**Incubated and transformed a computer vision product** named Autonomous Inspection, which automates plant inspections through camera and mobile devices.
+**Incubated and transformed a computer vision product named [Autonomous Inspection](https://www.gevernova.com/software/products/automated-visual-inspection)**, which automates plant inspections through camera and mobile devices.
 - **Led the cross-disciplinary team** of data scientists, front-end, back-end, and cloud engineers in developing and productionizing a AI product with a scalable cloud architecture. The product is launched in Market in '23. Led the solution testing and **implementation on a greenfield site in Germany**.  
 - The product includes, **multiple CNN models** for detecting industrial assets and corresponding defects. The models include object detection, semantic segmentation, and key point detection modules.  
 - Worked with **two major oil and gas customers** to refine the **corrosion module**.  
