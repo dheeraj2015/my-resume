@@ -34,6 +34,28 @@ Accomplished Senior Staff Data Scientist with a proven track record at GE Digita
 ### SENIOR STAFF DATA SCIENTIST at GE Vernova  
 _**May 2019 – Present**_
 
+### GEN AI Initiatives Across Digital Product Suites
+
+#### AI-Agent Platform for Carbon Emission Reporting (CERius)
+- Led the redesign of CERius reporting into an AI-agent–based platform enabling multi-standard, region-specific carbon emission compliance.  
+- Architected agent workflows for data retrieval, analytics, and automated insights generation, improving accuracy and scalability.  
+- Delivered interactive emission analysis capabilities, empowering users to identify high-emission assets and explore AI-generated trends and recommendations.
+
+#### AI-Driven Tag Mapping Automation for Industrial Assets
+- Directed development of a visual-language + OCR solution to automate 500+ tag mappings per blueprint across 10k+ customer tags.  
+- Built a scalable framework integrated with SmartSignal and GE product suites, reducing manual engineering effort and deployment timelines.  
+- Improved data quality and consistency by enabling automatic P&ID-driven validation of mapped tags.
+
+#### Generative AI for Predictive Inspection & Asset Health Insights (APM)
+- Executed a strategic PoC integrating work history, inspection summaries, measurements, recommendations, and images into a unified knowledge base.  
+- Designed AI pipelines to generate asset health insights, recommend optimal inspection intervals, and identify recurring defects and root causes.  
+- Demonstrated measurable value by enabling proactive maintenance planning and improved asset reliability for industrial customers.
+
+---
+
+**Key Technologies:** GPT-4, Claude, Llama, SQL Databases, OCR, Amazon Textract, AI Agents, LangGraph
+
+
 #### <u> Computer Vision product development and launched in market:</u>
 **Incubated and transformed a computer vision product named [Autonomous Inspection](https://www.gevernova.com/software/products/automated-visual-inspection)**, which automates plant inspections through camera and mobile devices.
 - **Led the cross-disciplinary team** of data scientists, front-end, back-end, and cloud engineers in developing and productionizing a AI product with a scalable cloud architecture. The product is launched in Market in '23. Led the solution testing and **implementation on a greenfield site in Germany**.  
@@ -50,15 +72,24 @@ _**May 2019 – Present**_
  <hr style="border: 0; height: 1px; background: #ccc;" />
 
 
-#### <u>GEN AI POCs</u>  
-- Explored and **implemented a RAG** using multiple inspection databases for generating summaries, analysis, and actionable insights from historical inspection **databases**. As a part of POC Conducted performance evaluations of **different LLMs** for recommending the best-fit models for industrial use cases.
-- Develop a **LLM-based tool** to create **request for proposal document** for sourcing. Here, the solution explores multiple pdf files corresponding to the part number, extract key information required for generating RFP(Request for proposal) document. The extracted information can be from text, tables and figures. **AWS textract** was used to extract information from multi-modal sources and combined information is sent to **GPT4** for creating RFP document
+### Predictive Emissions Monitoring System (PEMS) 
 
-**Key technologies:** GPT-4, Claude, Llama, SQL, Textract, OCR
+Contributing to GE Vernova’s mission of **“Electrifying the world while decarbonizing it,”** I am leading the development of a Predictive Emissions Monitoring System (PEMS) as part of a broader solution to automate accurate Greenhouse Gas (GHG) emissions reporting and generate actionable insights for emission reduction.
+
+#### Key Contributions
+- Designed and led the implementation of an adaptive multivariate regression model (Random Forest) to predict key emissions (CO₂, NOₓ, SO₂, HC) using historical plant operational data.  
+- Enhanced CEMS workflows by:  
+  - Validating CEMS data and flagging significant deviations to ensure data integrity.  
+  - Providing backup emissions estimates during CEMS faults or outages.  
+  - Handling missing CEMS inputs to maintain continuous and accurate reporting.  
+- Developed an adaptive learning mechanism to monitor plant behavior, detect data drift or system changes (e.g., maintenance, degradation), and automatically retrain models for sustained accuracy.  
+- Ensured robustness to missing sensor input and statistical shifts in plant operations over time.
+
+
 
 ---
 
-### STAFF DATA SCIENTIST at GE Digital/Power  
+#### STAFF DATA SCIENTIST at GE Digital/Power  
 _**Jan 2016 – Apr 2019**_
 
 **<u>Boiler tube leak solution:</u>** 
