@@ -1,3 +1,7 @@
-theme: jekyll-theme-cayman
-title: My Resume
-description: My professional profile
+title: "Dr. Dheeraj Sharan Singh | Resume"
+description: "Senior Staff Data Scientist | AI & Machine Learning Leader"
+url: "https://dheeraj2015.github.io"
+baseurl: "/my-resume"
+
+markdown: kramdown
+theme: null
