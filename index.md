@@ -53,21 +53,21 @@ Beyond leading software and data science teams, I have driven multiple proof-of-
   </div>
 </div>
 
-### GEN AI Initiatives Across Digital Product Suites
+#### GEN AI Initiatives Across Digital Product Suites
 
-#### AI-Agent Platform for Carbon Emission Reporting (CERius)
+##### AI-Agent Platform for Carbon Emission Reporting (CERius)
 
 - Led the redesign of CERius reporting into an AI-agent–based platform enabling multi-standard, region-specific carbon emission compliance.
 - Architected agent workflows for data retrieval, analytics, and automated insights generation, improving accuracy and scalability.
 - Delivered interactive emission analysis capabilities, empowering users to identify high-emission assets and explore AI-generated trends and recommendations.
 
-#### AI-Driven Tag Mapping Automation for Industrial Assets
+##### AI-Driven Tag Mapping Automation for Industrial Assets
 
 - Directed development of a visual-language + OCR solution to automate 500+ tag mappings per blueprint across 10k+ customer tags.
 - Built a scalable framework integrated with SmartSignal and GE product suites, reducing manual engineering effort and deployment timelines.
 - Improved data quality and consistency by enabling automatic P&ID-driven validation of mapped tags.
 
-#### Generative AI for Predictive Inspection & Asset Health Insights (APM)
+##### Generative AI for Predictive Inspection & Asset Health Insights (APM)
 
 - Executed a strategic PoC integrating work history, inspection summaries, measurements, recommendations, and images into a unified knowledge base.
 - Designed AI pipelines to generate asset health insights, recommend optimal inspection intervals, and identify recurring defects and root causes.
@@ -94,11 +94,11 @@ Incubated and transformed a computer vision product named [Autonomous Inspection
 
 ---
 
-### Predictive Emissions Monitoring System (PEMS)
+#### Predictive Emissions Monitoring System (PEMS)
 
 Contributing to GE Vernova’s mission of “Electrifying the world while decarbonizing it,” I am leading the development of a Predictive Emissions Monitoring System (PEMS) as part of a broader solution to automate accurate Greenhouse Gas (GHG) emissions reporting and generate actionable insights for emission reduction.
 
-#### Key Contributions
+**Key Contributions:**
 
 - Designed and led implementation of an adaptive multivariate regression model (Random Forest) to predict key emissions (CO₂, NOₓ, SO₂, HC) using historical plant operational data.
 - Enhanced CEMS workflows by:
