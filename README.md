@@ -1,4 +1,12 @@
 
+# DR. DHEERAJ SHARAN SINGH
+📞 8095017539  
+📧 dheeraj.singh.sharan@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/dheeraj-sharan-singh-706b4b2/)   🔗[Medium articles](https://medium.com/@dheeraj.singh.sharan)  
+📄 [Download Resume (PDF)](https://github.com/dheeraj2015/my-resume/raw/main/Dheeraj_SharanSingh_Resume.pdf)
+
+
+---
 
 
 ## PROFESSIONAL SUMMARY
