@@ -226,6 +226,7 @@ Contributing to GE Vernova’s mission of “Electrifying the world while decarb
 <section class="section" markdown="1">
 
 ## PUBLICATIONS & PATENTS
+https://scholar.google.com/citations?user=LlDN63oAAAAJ&hl=en
 
 - 9 international journal papers  
 - 5 international conference papers  
