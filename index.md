@@ -231,11 +231,11 @@ Contributing to GE Vernova’s mission of “Electrifying the world while decarb
 - 9 international journal papers  
 - 5 international conference papers  
 - 1 book chapter  
-- 1 patent filed and under review
+- [1 patent published- yet to granted](https://patentimages.storage.googleapis.com/56/06/66/0a8710062d4853/US20240331198A1.pdf)
 
 </section>
 
----
+***
 
 <section class="section" markdown="1">
 
