@@ -200,12 +200,16 @@ body {
 /* ---------- Experience cards ---------- */
 
 .experience-role {
-  padding: 14px 14px 12px;
-  border-radius: 10px;
-  border: 1px solid rgba(244, 180, 0, 0.28);
-  background: linear-gradient(circle at top left, rgba(244, 180, 0, 0.12), transparent 15%);
-  margin-bottom: 14px;
+  padding: 18px 20px;
+  border-radius: 14px;
+
+  background-color: rgba(244, 180, 0, 0.18);
+  border-left: 5px solid rgba(244, 180, 0, 0.9);
+
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.06);
+  margin-bottom: 18px;
 }
+
 
 .experience-role-header {
   display: flex;
@@ -217,7 +221,10 @@ body {
 
 .experience-role-title {
   font-weight: 800;
+  font-size: 1.05rem;
+  letter-spacing: 0.3px;
 }
+
 
 .experience-role-dates {
   font-size: 0.85rem;
