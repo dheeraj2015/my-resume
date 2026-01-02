@@ -203,7 +203,7 @@ body {
   padding: 14px 14px 12px;
   border-radius: 10px;
   border: 1px solid rgba(244, 180, 0, 0.28);
-  background: radial-gradient(circle at top left, rgba(244, 180, 0, 0.06), transparent 55%);
+  background: linear-gradient(circle at top left, rgba(244, 180, 0, 0.12), transparent 15%);
   margin-bottom: 14px;
 }
 
