@@ -46,7 +46,7 @@ Beyond leading software and data science teams, I have driven multiple proof-of-
 
 ## EXPERIENCE
 
-<div class="experience-role">
+<div class="experience-role golden-bg">
   <div class="experience-role-header">
     <div class="experience-role-title">SENIOR STAFF DATA SCIENTIST · GE Vernova</div>
     <div class="experience-role-dates">May 2019 – Present</div>
@@ -110,7 +110,7 @@ Contributing to GE Vernova’s mission of “Electrifying the world while decarb
 
 ---
 
-<div class="experience-role">
+<div class="experience-role golden-bg">
   <div class="experience-role-header">
     <div class="experience-role-title">STAFF DATA SCIENTIST · GE Digital / Power</div>
     <div class="experience-role-dates">Jan 2016 – Apr 2019</div>
@@ -147,7 +147,7 @@ Contributing to GE Vernova’s mission of “Electrifying the world while decarb
 
 ---
 
-<div class="experience-role">
+<div class="experience-role golden-bg">
   <div class="experience-role-header">
     <div class="experience-role-title">POSTDOCTORAL FELLOW · University of Alberta</div>
     <div class="experience-role-dates">Jun 2014 – Dec 2015</div>
@@ -163,7 +163,7 @@ Contributing to GE Vernova’s mission of “Electrifying the world while decarb
 
 ---
 
-<div class="experience-role">
+<div class="experience-role golden-bg">
   <div class="experience-role-header">
     <div class="experience-role-title">CONSULTANT · GE Global Research Centre</div>
     <div class="experience-role-dates">Jul 2012 – May 2014</div>
@@ -176,7 +176,7 @@ Contributing to GE Vernova’s mission of “Electrifying the world while decarb
 
 ---
 
-<div class="experience-role">
+<div class="experience-role golden-bg">
   <div class="experience-role-header">
     <div class="experience-role-title">SR. DESIGN ENGINEER · Tata Motors</div>
     <div class="experience-role-dates">Jul 2004 – Jun 2006</div>
@@ -232,7 +232,7 @@ Contributing to GE Vernova’s mission of “Electrifying the world while decarb
 - 5 international conference papers  
 - 1 book chapter  
 - [1 patent published- yet to granted](https://patentimages.storage.googleapis.com/56/06/66/0a8710062d4853/US20240331198A1.pdf)
-
+- [Medium Articles](https://medium.com/@dheeraj.singh.sharan)
 </section>
 
 ***
