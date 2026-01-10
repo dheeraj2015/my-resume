@@ -149,7 +149,7 @@ Contributing to GE Vernova’s mission of “Electrifying the world while decarb
 
 <div class="experience-role golden-bg">
   <div class="experience-role-header">
-    <div class="experience-role-title">POSTDOCTORAL FELLOW · University of Alberta</div>
+    <div class="experience-role-title">POSTDOCTORAL FELLOW · Departemnt of Electrical and Computer Enfineering, University of Alberta</div>
     <div class="experience-role-dates">Jun 2014 – Dec 2015</div>
   </div>
 </div>
@@ -193,7 +193,7 @@ Contributing to GE Vernova’s mission of “Electrifying the world while decarb
 
 <section class="section" markdown="1">
 
-## PHD RESEARCH
+## PHD RESEARCH        Pennsylvania State University
 
 - Pattern identification in mechanical systems using Symbolic Dynamic Filtering (SDF), a Markov modelling–based technique.
 - Data-driven remaining life prediction using PCA modelling and recursive Bayesian estimation.
