@@ -55,10 +55,10 @@ Beyond leading software and data science teams, I have driven multiple proof-of-
 
 #### GEN AI Initiatives Across Digital Product Suites
 
-##### AI-Agent Platform for Carbon Emission Reporting (CERius)
+##### AI-Agent for Carbon Emission Reporting (CERius)
 
-- Led the redesign of CERius reporting into an AI-agent–based platform enabling multi-standard, region-specific carbon emission compliance.
-- Architected agent workflows for data retrieval, analytics, and automated insights generation, improving accuracy and scalability.
+- Led the redesign of CERius reporting into an AI-agent–based application enabling multi-standard, region-specific carbon emission compliance.
+- Architected agent workflow for data retrieval, analytics, and automated insights generation, improving accuracy and scalability.
 - Delivered interactive emission analysis capabilities, empowering users to identify high-emission assets and explore AI-generated trends and recommendations.
 
 ##### AI-Driven Tag Mapping Automation for Industrial Assets
